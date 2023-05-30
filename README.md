@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Front End developer.
+🌍  I'm based in Chandigarh, India
+🖥️  See my portfolio at <a href="https://portfolio-sigma-rouge-20.vercel.app/" rel="nofollow">Portfolio</a>
+🧠  Currently learning Next.js
+🤝  I am actively seeking collaborative opportunities to contribute my skills as a developer to interesting projects.
+
+HTML5   CSS3   JavaScript   React   TailwindCSS NodeJS MongoDB
+
+

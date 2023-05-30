@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Front End developer.
+I am a Front-End developer.
 <ul>
   <li>🌍  I'm based in Chandigarh, India</li>
   <li>🖥️  See my portfolio at <a href="https://portfolio-sigma-rouge-20.vercel.app/" rel="nofollow">Portfolio</a></li>
